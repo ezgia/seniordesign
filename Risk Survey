@@ -1,0 +1,31 @@
+<head>
+<title> Risk Tolerance Survey </title>dd
+<style>
+body {
+text-align: center;
+}
+</style>
+</head>
+<body>
+<h1>Risk Tolerance Survey</h1>
+<p>We would like to get to know you. Please take time to answer the following 6 questions for us.</p>
+<p> </p>
+<p>1. When do you expect to begin withdrawing money from your investment account?</p>
+<input type="" placeholder="">
+<input type="submit">
+<p>2. The table to the right presents a potential best-case result, probable result and potential worst case result of five sample portfolios over a one-year period with an initial $10,000 investment. Understanding the potential upsides and downsides of each portfolio, which portfolio would you prefer to hold?</p>
+<input type="" placeholder="">
+<input type="submit">
+<p>3. The graph to the right shows the hypothetical best and worst results of five sample portfolios over a one-year holding period. Note that the portfolio with the highest upside also has the largest downside. Which of these portfolios would you prefer to hold?</p>
+<input type="" placeholder="">
+<input type="submit">
+<p>4. Historically, markets have experienced downturns, both short-term and prolonged, followed by market recoveries. Suppose you owned a well-diversified portfolio that fell by 20% (i.e., $1,000 initial investment would now be worth $800) over a short period, consistent with the overall market. Assuming you still have 7 years until you begin withdrawals, how would you react?</p>
+<input type="" placeholder="">
+<input type="submit">
+<p>5. For how long have you been an investor in the financial markets in the past?</p>
+<input type="" placeholder="">
+<input type="submit">
+<p>6. How confident are you regarding your guesses on target return, expected risk and holding period of the portfolio?</p>
+<input type="" placeholder="">
+<input type="submit">
+</body>
